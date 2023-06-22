@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Laravel, React, JS and C++ Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/diiaz2910](https://github.com/diiaz2910) and my last design project a library system deisgn [Figma URL](https://www.figma.com/file/U89H8lTR0L1eRezZUt51t1/Library-Information-System?node-id=1%3A2&t=rxgxprBXyokLIG2v-1)
+- 👨‍💻 All of my projects are available at [https://github.com/diiaz2910]([https://github.com/diiaz2910](https://www.linkedin.com/in/ricardorodriguez2910/)) and my last design project a library system deisgn [Figma URL](https://www.figma.com/file/U89H8lTR0L1eRezZUt51t1/Library-Information-System?node-id=1%3A2&t=rxgxprBXyokLIG2v-1)
 
 - 💬 Ask me about **Laravel, Cloud & DevOps**
 
