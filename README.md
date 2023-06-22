@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Inventory web based on Laravel](https://github.com/diiaz2910/laravelinventory)
 
-- 🌱 I’m currently learning **Javascript, AI With Phyton**
+- 🌱 I’m currently learning **TypeScript, AI With Phyton**
 
 - 👯 I’m looking to collaborate on **Laravel, React, JS and C++ Projects**
 
