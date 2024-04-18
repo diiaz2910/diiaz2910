@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
-<h3 align="center">I'm a passionate Software developer with strong bases as UX|UI Designer</h3>
+<h3 align="center">Software developer with strong bases as UX|UI Designer</h3>
 
 - 🔭 I’m currently working on [GraphQL Node Ts React - Poject]([https://github.com/diiaz2910/laravelinventory](https://github.com/diiaz2910/graphql-node-ts-react-project))
 
