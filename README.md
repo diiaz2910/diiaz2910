@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
 <h3 align="center">Software developer with strong bases as UX|UI Designer</h3>
 
+- 🔭 Currently Improving this profile ......
+  
 - 🔭 I’m currently working on [GraphQL Node Ts React - Poject]([https://github.com/diiaz2910/laravelinventory](https://github.com/diiaz2910/graphql-node-ts-react-project))
 
 - 🌱 I’m currently learning **GraphQL - Apollo**
