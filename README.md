@@ -24,4 +24,4 @@
 
 ### More About Me:
 - 💼 Check out my professional profile on [LinkedIn](https://www.linkedin.com/in/ricardorodriguez2910/).
-- 🌐 Visit my personal website: [www.ricardorodriguez.com](#).
+- 🌐 Visit my personal website (revamping, available soon): [[www.ricardorodriguez.com](https://www.linkedin.com/in/ricardorodriguez2910/)](#).
