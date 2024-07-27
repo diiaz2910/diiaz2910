@@ -6,7 +6,6 @@
 
 🔭 Currently working on a[ GraphQL Node TypeScript React project](https://github.com/diiaz2910/lotto-frontend) to show statistics about lotto games in NZ.<br/>
 🌱 Diving deep into **GraphQL, Apollo and data analysis with Colab**.<br/>
-👯 Open to collaboration on **React, TypeScript, Data Analysis, Colab**.<br/>
 📫 Reach out to me at **diiaz2910@gmail.com** or **https://www.linkedin.com/in/ricardorodriguez2910/**.<br/>
 
 
